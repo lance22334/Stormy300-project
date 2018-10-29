@@ -1,0 +1,110 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.outer-container{
+    left: 10%;
+    position: relative;
+    background-color: rgba(185, 0, 0, 0.91);
+    background-image: linear-gradient(maroon,black);
+    width: 74%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+
+}
+
+.inner-container{
+    left: 10%;
+    border: black 2px solid;
+    background-color: white;
+    position: relative;
+    width: 80%;
+    margin-bottom: 1%;
+}
+
+#cliff{
+    width: 75.2%;
+    border: red 2px solid;
+    margin-left: 10%;
+
+
+
+}
+#images1{
+    margin-left: -10%;
+}
+h1,h3,h5{
+    font-family: "Berlin Sans FB"
+
+}
+.redtext{
+    color: red;
+}
+#par1{
+    margin-left: 14%;
+}
+.container{
+position: page;
+    margin-left: -16%;
+    margin-bottom: -13%;
+    text-align: left;
+    border: #a20000 2px solid;
+    background-color: white;
+    width: 14.5%;
+
+
+}
+#par7{
+    position: absolute;
+    margin-top: -25%;
+    margin-left: 52%;
+}
+
+#xerxes{
+    margin-left: -5%;
+
+}
+
+.T{
+
+}

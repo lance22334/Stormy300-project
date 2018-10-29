@@ -1,0 +1,49 @@
+body{
+    background-image: url(../images/stormy-weather-background.jpg);
+    background-repeat: no-repeat;
+
+}
+
+
+/*.container2{*/
+    /*position: relative;*/
+/*}*/
+
+.text-block{
+    position: absolute;
+    bottom: 135px;
+    left: 15px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    font-family: "Arial";
+    border: 4px double;
+
+
+
+
+}
+
+h1 {
+    color: white;
+    width: 85%;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 0;
+    font-family: "Arial";
+    margin-top: 10px;
+    size: 1px;
+    padding: 2%;
+    margin-left: -10px;
+}
+
+#phone{
+    margin-top: -6%;
+    margin-left: 67%;
+
+}
+#ipad{
+    margin-top: -5%;
+    margin-left: 80%;
+}
